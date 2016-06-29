@@ -17,7 +17,6 @@ namespace Generic
         {
             return Title;
         }
-
     }
     class Example02
     {
