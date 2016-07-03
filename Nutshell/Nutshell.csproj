@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Nutshell.GenericTypes</StartupObject>
+    <StartupObject>Nutshell.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
