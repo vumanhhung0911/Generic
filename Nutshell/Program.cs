@@ -24,8 +24,8 @@ namespace Nutshell
         }
         static void Main(string[] args)
         {
-            int z = Max(5,10 );
-            string last = Max("ant", "zoo");
+            //int z = Max(5,10 );
+            //string last = Max("ant", "zoo");
         }
     }
 }
